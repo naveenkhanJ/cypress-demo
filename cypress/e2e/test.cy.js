@@ -2,7 +2,7 @@ describe('Demo Test', () => {
 
   it('Visits page and clicks button', () => {
 
-    cy.visit('index.html')
+    cy.visit('http://localhost:8080')
 
     cy.contains('Click Me').click()
 
