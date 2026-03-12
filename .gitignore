@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# npm debug files
+npm-debug.log*
+
+# Misc
+*.tsbuildinfo
